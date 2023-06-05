@@ -1,5 +1,4 @@
-import random
-import pyautogui
+import random, pyautogui
 
 x = random.randint(0, 1920)
 
